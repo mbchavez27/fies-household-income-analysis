@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+*.png
+
+# OS files
+.DS_Store
+
+# Secrets
+.env
+.env.*
